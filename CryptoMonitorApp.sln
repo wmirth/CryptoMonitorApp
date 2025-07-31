@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoMonitorApp", "CryptoMonitorApp.csproj", "{AA8309F0-9A3F-4080-922D-19E700536DB4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CrptoMonitorSetup", "..\CrptoMonitorSetup\CrptoMonitorSetup.vdproj", "{00BBCD21-8559-F902-14A2-B2E35A49DB42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA8309F0-9A3F-4080-922D-19E700536DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA8309F0-9A3F-4080-922D-19E700536DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA8309F0-9A3F-4080-922D-19E700536DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA8309F0-9A3F-4080-922D-19E700536DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00BBCD21-8559-F902-14A2-B2E35A49DB42}.Debug|Any CPU.ActiveCfg = Debug
+		{00BBCD21-8559-F902-14A2-B2E35A49DB42}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAEB468F-44FA-430B-9796-A97FA3F981B6}
+	EndGlobalSection
+EndGlobal
